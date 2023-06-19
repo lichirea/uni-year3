@@ -1,0 +1,18 @@
+%1
+t = [0 3 5 8 13];
+f = [0 225 383 623 993];
+d = [75 77 80 74 72];
+x = 10;
+
+H = hermite(t,f,d,x)
+
+
+%2
+t = [1 2];
+f = [0 0.6931];
+d = [1 0.5];
+x = 1.5;
+
+fprintf("f(1.5)  %f\n",err = abs(log(x) - H));
+H = hermite(t,f,d,x)
+fprintf("absolute approximation error %f\n",err = abs(log(x) - H));

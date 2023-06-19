@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xuo0CuOX4YQWVdgmHoR2+JFQgH8T06OVNA8c9xIQ5CHy8i/f37t0GJfkONBcX43kBUA5O9sOKIu0n1bAEXwRJA==",
+  "success": true,
+  "projectFilePath": "D:\\Data\\UBB\\An3\\SEM5\\PDP\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fixer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
